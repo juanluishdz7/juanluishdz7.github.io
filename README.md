@@ -3,13 +3,13 @@
 Full stack Web Developer with a passion for automating processes and debugging. Current career as a Scientist was the inspiration to learn more about web development, where I successfully developed user friendly templates to help team become more efficient in analysis procedures and data reports. Motivated to learn new technologies to complement problem-solving skills.
                           
                           
-                          Technical Skills
+                                                Technical Skills
 ● MySQL PRO, Node.js, JavaScript, jQuery, HTML, CSS, Bootstrap, GIT, Github, React.
 
 ● Proficient with the command line and computer science fundamentals.
                               
                               
-                              Projects
+                                                   Projects
                               
 Dineamite
 Web application for custom recipes
@@ -38,7 +38,7 @@ Web application allowing users to create storylines and share them with the worl
 
 ● Utilized Materialize to design front end.
                           
-                          Professional Experience
+                                                Professional Experience
 Scientist Senior- City of Austin
 
 ● Responsible for managing water quality data using different databases.
@@ -49,7 +49,7 @@ Scientist Senior- City of Austin
 
 ● Provide training to workgroup with the use of data management systems.
                                 
-                                Education       
+                                                      Education       
 University of Texas at Austin –​ Web development program dedicated to designing and building web applications. Skills learned consisted of HTML, CSS, JavaScript, jQuery, Bootstrap, Firebase, Node.js, MySQL and React.
 
 University of Texas at San Antonio -​ B.S. in Biology
