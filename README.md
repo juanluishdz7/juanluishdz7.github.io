@@ -1,7 +1,7 @@
 # juanluishdz7.github.io
 
 Full stack Web Developer with a passion for automating processes and debugging. Current career as a Scientist was the inspiration to learn more about web development, where I successfully developed user friendly templates to help team become more efficient in analysis procedures and data reports. Motivated to learn new technologies to complement problem-solving skills.
-                          Technical Skills
+                          ##Technical Skills
 ● MySQL PRO, Node.js, JavaScript, jQuery, HTML, CSS, Bootstrap, GIT, Github, React.
 ● Proficient with the command line and computer science fundamentals.
                               Projects
