@@ -66,7 +66,7 @@ h3 {
   overflow: auto;
   color: #4a4a4a;
   background: #fff;
-  border-bottom: 2px solid #ccc;
+  border-bottom: 2px solid #fe6b54;
 }
 
 #logo {
@@ -97,7 +97,7 @@ nav a {
   line-height: 18px;
   color: #999;
   text-decoration: none;
-  border-left: 1px solid #efefef;
+  border-left: 1px solid #fe6b54;
 }
 
 
@@ -112,7 +112,7 @@ footer {
   color: #ccc;
   text-align: center;
   background: #666;
-  border-top: 8px solid #ff4335d8;
+  border-top: 8px solid #fe6b54;
   height: 50px;
 }
 
@@ -183,7 +183,7 @@ h3, h2 {
 
 .work img {
   width: 100%;
-  height: 150px;
+  height: 208px;
   border: 0 none;
   opacity: 1.8;
 
@@ -196,8 +196,8 @@ h3, h2 {
   padding: 6px;
   margin-bottom: 0;
   font-family: Cabin,Helvetica,Arial,sans-serif;
-  font-weight: 500;
-  line-height: 30px;
+  font-size: 12px;
+  line-height: 20px;
   color: #fff;
   text-align: center;
   background: #666;
